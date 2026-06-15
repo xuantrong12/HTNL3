@@ -1,0 +1,21 @@
+<!-- TODO: Editor 4: Kiểm tra tiếng Việt
+Yêu cầu: Tạo trang có meta charset UTF-8 và ít nhất một đoạn văn tiếng Việt có dấu.
+Gợi ý: Meta charset giúp hiển thị tiếng Việt đúng.
+Không dán code vào editor chính. Hãy tự gõ, sau đó copy sang editor online để chạy thử. -->
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODO</title>
+  <!-- TODO: thêm CSS nội bộ hoặc liên kết css/style.css nếu đề yêu cầu -->
+</head>
+<body>
+  <h1>Kiểm tra hiển thị tiếng Việt</h1>
+
+  <p>
+    Tôi đang học môn Thiết kế Web và thực hành tạo trang HTML bằng tiếng Việt có dấu.
+  </p>
+</body>
+</html>
